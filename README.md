@@ -3,7 +3,7 @@
   <img height="170" src="/src/api.png" />
   <h1 id="title">Gui HTTP request</h1>
   <p>
-    <strong>An HTTP tester built with Ftlk in rust</strong>
+    <strong>An HTTP tester built with Fltk in rust</strong>
   </p>
 
   <p>
