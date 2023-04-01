@@ -1,4 +1,9 @@
-use reqwest::{Error, Response, Client, Body};
+use reqwest::{
+    Error,
+    Response,
+    Client,
+    Body
+};
 
 pub async fn http_request(
     method: i32,
@@ -7,7 +12,6 @@ pub async fn http_request(
     admin: String,
     password: String
 ) -> Result<String, Error> {
-    
     let client: Client = Client::new();
     match method {
         0 => {
