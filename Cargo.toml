@@ -6,6 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-fltk = "1.3.33"
+fltk = "1.4"
 reqwest = "0.11.14"
 tokio = { version = "1.26.0", features = ["full"] }
+json-tools = "1"
+cascade = "1"

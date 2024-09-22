@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![HTTP](src/ftlk-rust.gif)
+![HTTP](assets/ftlk-rust.gif)
 
 </div>
 
