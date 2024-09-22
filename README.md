@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img height="170" src="/src/api.png" />
+  <img height="170" src="/assets/api.png" />
   <h1 id="title">HTTP Tester</h1>
   <p>
     <strong>An HTTP tester built with Fltk in rust</strong>
